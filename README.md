@@ -3,7 +3,7 @@
 ## Documents and other content
 
  - Phase 0
-	 - Click [here]() to download our preliminary project plan.
+	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/blob/980e72c5a670db71bfbaa071af9245323fafe972/preliminaryprojectplan.pdf) to download our preliminary project plan.
 
 ### Project Deliverables 
 
