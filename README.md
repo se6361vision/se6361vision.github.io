@@ -1,18 +1,19 @@
-
-
 # Vision - A mobile application to help the visually challenged navigate indoors.
 
-### Click [here](ppr report goes here) to download our preliminary project plan.
+## Documents and other content
+
+ - Phase 0
+	 - Click [here]() to download our preliminary project plan.
 
 ### Project Deliverables 
 
 | Deliverable Name | Date | Team Leaders | Tools |
 |------------------|------|--------------|-------|
-| Preliminary Project Plan | 01/27/22 |Sailesh Sriram | MS Word |
+| Preliminary Project Plan | 01/27/22 |Sailesh Sriram | Google Docs |
 | Interim Project I | 03/08/22 | Visshwak Jeyakumar | Android SDK |
 | Final Project I Submission | 03/25/22 | Mohit Anand | TBD |
 | Interim Project II | 04/19/22 | Rupin Jairaj | TBD
-| Final Project II Submission | 04/26/22 | | TBD 
+| Final Project II Submission | 04/26/22 | Wenlong Yang | TBD 
 
 				   
 
@@ -29,5 +30,3 @@
 
 
 #### Submitted for: **SE 6361**
-
-#### Phase 0
