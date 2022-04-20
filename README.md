@@ -4,10 +4,10 @@
 
  - Phase 0
 	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/blob/980e72c5a670db71bfbaa071af9245323fafe972/preliminaryprojectplan.pdf) to download our preliminary project plan.
- - Interim Project II
-  	- Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/WRS.docx) for WRS. 
-  	- Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/vision.docx) for the Vision document
-  	- Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/Deliverable%20Outline.pdf) for the Deliverable Outline.
+- Interim Project II
+	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/WRS.docx) for WRS.
+	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/vision.docx) for the Vision document
+  	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/Deliverable%20Outline.pdf) for the Deliverable Outline.
 
 ### Project Deliverables 
 
