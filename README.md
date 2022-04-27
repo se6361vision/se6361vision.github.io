@@ -8,6 +8,11 @@
 	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/WRS.docx) for WRS.
 	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/vision.docx) for the Vision document
   	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/Deliverable%20Outline.pdf) for the Deliverable Outline.
+- Final Documents
+ 	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/SE6361%20-%20Theia%20-%20Final%20Presentation.pptx) for presentation documents.
+ 	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/Theia%20Demo.mp4) for demo video.
+ 	 - Click [here](https://github.com/se6361vision/se6361vision.github.io/raw/main/Questionnaire.docx) for questionnaire.
+
 
 ### Project Deliverables 
 
@@ -15,9 +20,9 @@
 |------------------|------|--------------|-------|
 | Preliminary Project Plan | 01/27/22 |Sailesh Sriram | Google Docs |
 | Interim Project I | 03/08/22 | Visshwak Jeyakumar | Android SDK |
-| Final Project I Submission | 03/25/22 | Mohit Anand | TBD |
-| Interim Project II | 04/19/22 | Rupin Jairaj | TBD
-| Final Project II Submission | 04/26/22 | Wenlong Yang | TBD 
+| Final Project I Submission | 03/25/22 | Mohit Anand | |
+| Interim Project II | 04/19/22 | Rupin Jairaj | |
+| Final Project II Submission | 04/26/22 | Wenlong Yang | Figma, Google Docs | 
 
 				   
 
